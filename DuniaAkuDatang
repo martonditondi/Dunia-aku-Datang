@@ -1,0 +1,10 @@
+Desain & Alur      =  Figma                  -> Aplikasi desain
+Editor kode        =  Vs Code                -> Aplikasi editor
+Manajemen kode     =  GitHub                 -> Layanan version control
+Tampilan depan     =  Next.js & TailwindCss  -> Framework frontend
+Mesin utama        =  Java & SpringBoot      -> Framework Backend
+Uji jalur Data     =  Postman                -> Aplikasi pengujian
+Penyimpanan Data   =  MySQL & PostgreSQL     -> Database
+Pembayaran         =  Midtrans               -> Layanan Payment Gateway
+Pengemasan Sistem  =  Docker                  -> Tool Kontainerisasi
+Peluncuran Oline   =  Google Claude Platform(GCP)  -> Claude Server
